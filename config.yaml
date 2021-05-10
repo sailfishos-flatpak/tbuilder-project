@@ -8,5 +8,4 @@ rpms: RPMS
 buildoptions: -j8
 
 macros:
-  - vendor meego
   - sailfishos 4.0
