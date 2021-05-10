@@ -1,0 +1,1 @@
+../src/flatpak-runner.git/rpm/flatpak-runner.spec

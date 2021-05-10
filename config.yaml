@@ -1,0 +1,12 @@
+project: flatpak
+
+targets:
+  - SailfishOS-4.0.1.48-aarch64
+
+rpms: RPMS
+
+buildoptions: -j8
+
+macros:
+  - vendor meego
+  - sailfishos 4.0

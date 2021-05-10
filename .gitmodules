@@ -1,0 +1,21 @@
+[submodule "src/flatpak-runner.git"]
+	path = src/flatpak-runner.git
+	url = https://github.com/sailfishos-flatpak/flatpak-runner.git
+[submodule "src/pkg-appstream-glib.git"]
+	path = src/pkg-appstream-glib.git
+	url = https://github.com/sailfishos-flatpak/pkg-appstream-glib.git
+[submodule "src/pkg-autoconf-archive.git"]
+	path = src/pkg-autoconf-archive.git
+	url = https://github.com/sailfishos-flatpak/pkg-autoconf-archive.git
+[submodule "src/pkg-flatpak.git"]
+	path = src/pkg-flatpak.git
+	url = https://github.com/sailfishos-flatpak/pkg-flatpak.git
+[submodule "src/pkg-ostree.git"]
+	path = src/pkg-ostree.git
+	url = https://github.com/sailfishos-flatpak/pkg-ostree.git
+[submodule "src/pkg-xdg-desktop-portal.git"]
+	path = src/pkg-xdg-desktop-portal.git
+	url = https://github.com/sailfishos-flatpak/pkg-xdg-desktop-portal.git
+[submodule "src/pkg-xdg-dbus-proxy.git"]
+	path = src/pkg-xdg-dbus-proxy.git
+	url = https://github.com/sailfishos-flatpak/pkg-xdg-dbus-proxy.git

@@ -1,0 +1,1 @@
+../src/pkg-appstream-glib.git/rpm/libappstream-glib.spec

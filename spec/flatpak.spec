@@ -1,0 +1,1 @@
+../src/pkg-flatpak.git/rpm/flatpak.spec

@@ -1,0 +1,1 @@
+../src/pkg-xdg-dbus-proxy.git/rpm/xdg-dbus-proxy.spec

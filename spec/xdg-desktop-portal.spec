@@ -1,0 +1,1 @@
+../src/pkg-xdg-desktop-portal.git/rpm/xdg-desktop-portal.spec

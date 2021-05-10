@@ -1,0 +1,1 @@
+../src/pkg-ostree.git/rpm/ostree.spec
